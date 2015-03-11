@@ -1,0 +1,14 @@
+*.pyc
+*.*~
+.directory
+*.swp
+
+# PyCharm
+.idea/
+.iml
+
+#Test file
+test.py
+
+#log files
+log.txt
